@@ -1,5 +1,3 @@
-Sure! Here’s a sample README file you can use for your GitHub project:
-
 ---
 
 # 📚 Semantic Book Recommender
@@ -93,10 +91,5 @@ This project uses the `books_with_emotions.csv` dataset, which contains informat
 
 If you'd like to contribute to this project, please fork the repository and submit a pull request. We welcome any improvements, bug fixes, or additional features.
 
-## 📄 License
+![Uploading LLM Course – Build a Semantic Book Recommender (Python, OpenAI, LangChain, Gradio).mp4 8_20_2025 5_10_24 PM.png…]()
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Let me know if you'd like to add or change anything specific!
