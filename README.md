@@ -91,6 +91,5 @@ This project uses the `books_with_emotions.csv` dataset, which contains informat
 
 If you'd like to contribute to this project, please fork the repository and submit a pull request. We welcome any improvements, bug fixes, or additional features.
 
-<img width="1920" height="1080" alt="LLM Course – Build a Semantic Book Recommender (Python, OpenAI, LangChain, Gradio) mp4 8_20_2025 5_10_24 PM" src="https://github.com/user-attachments/assets/908cf602-8062-4e8e-9e0d-8d04d00c1b0f" />
 
 
